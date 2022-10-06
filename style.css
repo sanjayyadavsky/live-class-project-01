@@ -6,10 +6,9 @@
   font-family: "Gemunu Libre", sans-serif;
   list-style: none;
 }
-
 .clearfix {
   clear: both;
-  content: "";
+
 }
 .container {
   padding: 5px;
@@ -145,6 +144,9 @@ text-align: center;
 .star-2{
     float: left;
 }
+/* .star-2>img{
+  padding-bottom: 20px;÷
+} */
  /* .........nav-bar...hover effect */
  .list-item:hover{
     content:"";
