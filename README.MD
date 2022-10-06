@@ -39,10 +39,8 @@ the websit is fully responsive on large screen size that is 1440px and beyoud
   css property 
 
   ```css
-{
 .clearfix {
   clear: both;
-}
 }
 ```
 and HTML tag
@@ -50,9 +48,3 @@ and HTML tag
   <div class="clearfix"></div>
 
 ```
-
-
-
-
-
-
