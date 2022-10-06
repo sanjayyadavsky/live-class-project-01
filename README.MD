@@ -1,3 +1,18 @@
+#Personal Info
+
+Name: Sanjay Yadav 
+
+I have learn about position and float, like the problem you have to face while using float property and how to resolve that.
+
+Time take to do first assignment 
+
+i take around one whole day to do it.
+
+------------------
+
+
+
+
 # Sample 
 **The given sample for assignment**
 
@@ -35,6 +50,8 @@ and HTML tag
   <div class="clearfix"></div>
 
 ```
+
+
 
 
 
