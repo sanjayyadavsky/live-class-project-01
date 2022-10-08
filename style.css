@@ -58,10 +58,17 @@
   margin-right: 25px;
   -webkit-border-radius: 40px;
   -moz-border-radius: 40px;
-  border-radius: 40px;
+  border-radius: 10px;
 }
 .hero-container{
     margin-top: 60px;
+}
+.search-icon svg{
+  height: 20px;
+  width: 20px;
+  margin-right: 5px;
+  margin-top: 5px;
+
 }
 .hero-container > .left-cotent {
     float:left;
