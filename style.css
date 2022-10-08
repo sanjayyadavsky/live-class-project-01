@@ -18,6 +18,7 @@
 .navbar-container {
   display: block;
   padding: 2px;
+  margin-top: 15px;
 }
 .navbar-container > div {
   float: left;
